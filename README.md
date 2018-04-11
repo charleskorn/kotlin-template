@@ -12,6 +12,10 @@ Perfect for quick projects, coding workshops or as the basis for something bigge
 * [Hamkrest](https://github.com/npryce/hamkrest) for assertions
 * [mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) for mocking
 
+## What's required
+
+* JDK (version 8 or later)
+
 ## Usage
 
 ### Building the application

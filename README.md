@@ -1,5 +1,7 @@
 # kotlin-template
 
+[![Build Status](https://travis-ci.org/charleskorn/kotlin-template.svg?branch=master)](https://travis-ci.org/charleskorn/kotlin-template)
+
 An empty Kotlin project with sensible defaults.
 
 Perfect for quick projects, coding workshops or as the basis for something bigger.
